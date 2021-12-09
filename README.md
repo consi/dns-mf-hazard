@@ -13,4 +13,6 @@ pip3 install git+https://github.com/consi/dns-mf-hazard.git
 ```
 
 **Usage**
+```
 dns-mf-hazard -d IP_ADDRESS_OF_YOUR_DNS_SERVER
+```
